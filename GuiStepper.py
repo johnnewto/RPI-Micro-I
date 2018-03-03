@@ -11,7 +11,7 @@ from Stepper import stepper
 from picamera import PiCamera
 from time import sleep
 import numpy as np
-from skimage.io import imread, imsave
+#from skimage.io import imread, imsave
 import time
 
 #stepper variables
